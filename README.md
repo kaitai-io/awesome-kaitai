@@ -54,7 +54,7 @@ A curated list of Kaitai Struct tools and resources
 - Perl ([Repository](https://github.com/kaitai-io/kaitai_struct_perl_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_perl_runtime/issues))
 - PHP ([Repository](https://github.com/kaitai-io/kaitai_struct_php_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_php_runtime/issues))
 - Python ([Repository](https://github.com/kaitai-io/kaitai_struct_python_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_python_runtime/issues))
-  - [PIP packet](https://pypi.org/pypi/kaitaistruct/)
+  - [PIP packet](https://pypi.org/project/kaitaistruct/)
 - Ruby ([Repository](https://github.com/kaitai-io/kaitai_struct_ruby_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_ruby_runtime/issues))
 - Rust ([Repository](https://github.com/kaitai-io/kaitai_struct_rust_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_rust_runtime/issues))
 - Swift ([Repository](https://github.com/kaitai-io/kaitai_struct_swift_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_swift_runtime/issues))
