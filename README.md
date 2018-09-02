@@ -30,7 +30,7 @@ A curated list of Kaitai Struct tools and resources
 - [Kaitai Struct library of binary file formats](http://formats.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_formats), [Github Pages](https://github.com/kaitai-io/formats-kaitai-io.github.io))
 - APFS (apple file system) format ([Repository](https://github.com/cugu/apfs.ksy), [Issues](https://github.com/cugu/apfs.ksy/issues))
 - DICOM (Digital Imaging and Communications in Medicine) file format spec for Kaitai Struct ([Repository](https://github.com/kaitai-io/dicom.ksy), [Issues](https://github.com/kaitai-io/dicom.ksy/issues))
-- EDID (VESA Enhanced Extended Display Identification Data) structure for Kaitai Struct ([Repository](https://github.com/kaitai-io/edid.ksy), [Issues](https://github.com/kaitai-io/edid.ksy/issues))
+- EDID (VESA Enhanced Extended Display Identification Data) structure for Kaitai Struct ([Repository](https://github.com/kaitai-io/edid.ksy))
 - Java bytecode spec for Kaitai Struct ([Repository](https://github.com/kaitai-io/java_bytecode.ksy), [Issues](https://github.com/kaitai-io/java_bytecode.ksy/issues))
 - Windows resource file spec for Kaitai Struct ([Repository](https://github.com/kaitai-io/windows_resource_file.ksy), [Issues](https://github.com/kaitai-io/windows_resource_file.ksy/issues))
 
@@ -47,14 +47,14 @@ A curated list of Kaitai Struct tools and resources
 - C#/.NET ([Repository](https://github.com/kaitai-io/kaitai_struct_csharp_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_csharp_runtime/issues))
 - Go ([Repository](https://github.com/kaitai-io/kaitai_struct_go_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_go_runtime/issues))
 - JavaScript ([Repository](https://github.com/kaitai-io/kaitai_struct_javascript_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_javascript_runtime/issues))
-  - Examples ([Repository](https://github.com/kaitai-io/kaitai_struct_examples), [Issues](https://github.com/kaitai-io/kaitai_struct_examples/issues))
+  - Examples ([Repository](https://github.com/kaitai-io/kaitai_struct_examples))
   - Webpack loader for kaitai-struct .ksy definitions ([Repository](https://github.com/kaitai-io/kaitai-struct-loader), [Issues](https://github.com/kaitai-io/kaitai-struct-loader/issues))
 - Java ([Repository](https://github.com/kaitai-io/kaitai_struct_java_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_java_runtime/issues))
 - Lua ([Repository](https://github.com/kaitai-io/kaitai_struct_lua_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_lua_runtime/issues))
 - Perl ([Repository](https://github.com/kaitai-io/kaitai_struct_perl_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_perl_runtime/issues))
 - PHP ([Repository](https://github.com/kaitai-io/kaitai_struct_php_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_php_runtime/issues))
 - Python ([Repository](https://github.com/kaitai-io/kaitai_struct_python_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_python_runtime/issues))
-  - [PIP packet](https://pypi.org/pypi/kaitaistruct)
+  - [PIP packet](https://pypi.org/pypi/kaitaistruct/)
 - Ruby ([Repository](https://github.com/kaitai-io/kaitai_struct_ruby_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_ruby_runtime/issues))
 - Rust ([Repository](https://github.com/kaitai-io/kaitai_struct_rust_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_rust_runtime/issues))
 - Swift ([Repository](https://github.com/kaitai-io/kaitai_struct_swift_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_swift_runtime/issues))
@@ -64,7 +64,7 @@ A curated list of Kaitai Struct tools and resources
 - Tests for all languages ([Repository](https://github.com/kaitai-io/kaitai_struct_tests))
 - Compiled test files ([Repository](https://github.com/kaitai-io/ci_targets))
 - [Test results](http://kaitai.io/ci/) ([Test Artifacts Repository](https://github.com/kaitai-io/ci_artifacts))
-- Benchmarking suite ([Repository](https://github.com/kaitai-io/kaitai_struct_benchmarks), [Issues](https://github.com/kaitai-io/kaitai_struct_benchmarks/issues))
+- Benchmarking suite ([Repository](https://github.com/kaitai-io/kaitai_struct_benchmarks))
 - Settings for shippable.com ([Repository](https://github.com/kaitai-io/kaitai_struct_shippable)) - *test?*
 
 ## Misc
@@ -88,7 +88,7 @@ A curated list of Kaitai Struct tools and resources
 - https://github.com/padsproj/pads
 - [dtfabric](https://github.com/libyal/dtfabric)
 - [construct](https://github.com/construct/construct) - Python library to create declarative parsers
-- [vstruct2](https://github.com/vivisect/vstruct) - Python structure definition and parsing library
+- [vstruct2](https://github.com/vivisect/vstruct2) - Python structure definition and parsing library
 
 ### Hex Editors
 
@@ -103,7 +103,7 @@ A curated list of Kaitai Struct tools and resources
 ### File Grammars
 
 - [010 Editor Templates](http://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
-- [Contruct formats](https://github.com/construct/construct/tree/master/construct/examples/formats) - Parser for different file formats for the python construct package
+- [Contruct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) - Parser for different file formats for the python construct package
 - [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) - HFS+ grammars for Synalysis
 - [iBored Templates](http://apps.tempel.org/iBored/#) - Templates are packed inside the .app
 - [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) - Grammars for different file systems
