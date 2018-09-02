@@ -1,4 +1,4 @@
-# Awesome Kaitai
+# Awesome Kaitai [![Link Status](https://api.travis-ci.org/kaitai-io/awesome-kaitai.svg?branch=master)](https://travis-ci.org/kaitai-io/awesome-kaitai)
 
 A curated list of Kaitai Struct tools and resources
 
