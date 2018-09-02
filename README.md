@@ -28,6 +28,7 @@ A curated list of Kaitai Struct tools and resources
 ## Formats
 
 - [Kaitai Struct library of binary file formats](http://formats.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_formats), [Github Pages](https://github.com/kaitai-io/formats-kaitai-io.github.io))
+- APFS (apple file system) format ([Repository](https://github.com/cugu/apfs.ksy), [Issues](https://github.com/cugu/apfs.ksy/issues))
 - DICOM (Digital Imaging and Communications in Medicine) file format spec for Kaitai Struct ([Repository](https://github.com/kaitai-io/dicom.ksy), [Wiki](https://github.com/kaitai-io/dicom.ksy/wiki), [Issues](https://github.com/kaitai-io/dicom.ksy/issues))
 - EDID (VESA Enhanced Extended Display Identification Data) structure for Kaitai Struct ([Repository](https://github.com/kaitai-io/edid.ksy), [Wiki](https://github.com/kaitai-io/edid.ksy/wiki), [Issues](https://github.com/kaitai-io/edid.ksy/issues))
 - Java bytecode spec for Kaitai Struct ([Repository](https://github.com/kaitai-io/java_bytecode.ksy), [Wiki](https://github.com/kaitai-io/java_bytecode.ksy/wiki), [Issues](https://github.com/kaitai-io/java_bytecode.ksy/issues))
