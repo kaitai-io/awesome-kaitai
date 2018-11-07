@@ -16,13 +16,13 @@ A curated list of Kaitai Struct tools and resources
   - [webide-usercontent.kaitai.io](https://github.com/kaitai-io/webide-usercontent.kaitai.io) - Used in sandboxing for the WebIDE
 - [Development version of the IDE](https://ide.kaitai.io/devel/) ([Github Page](https://github.com/kaitai-io/ide-devel-kaitai-io.github.io))
 - Kaitai Struct: visualizer and hex viewer tool ([Repository](https://github.com/kaitai-io/kaitai_struct_visualizer))
-- kaitaiStructCompile.py - Automate ksy compilation into python files ([Repository](https://github.com/KOLANICH/kaitaiStructCompile.py))
+- kaitaiStructCompile.py - Automate ksy compilation into python files ([Repository](https://gitlab.com/KOLANICH/kaitaiStructCompile.py))
 - Kaitai Struct: visualizer and hex viewer tool GUI in Java ([Repository](https://github.com/kaitai-io/kaitai_struct_gui), [Issues](https://github.com/kaitai-io/kaitai_struct_gui/issues)) - *deprecated?*
 
 ## Converter
 
 - Convert C to ksy file ([Snippet](https://gist.github.com/GreyCat/9dba530b0d2cb8ccec4e1d6e90a0b565))
-- Convert Synalyze It! Grammars to ksy files ([Repository](https://github.com/KOLANICH/synalysis2kaitai))
+- Convert Synalyze It! Grammars to ksy files ([Repository](https://gitlab.com/KOLANICH/synalysis2kaitai))
 - Converting Kaitai structs to wireshark LUA plugins ([Repository](https://github.com/joushx/kaitai-to-wireshark)) - *deprecated*
 
 ## Formats
