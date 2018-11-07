@@ -86,6 +86,7 @@ A curated list of Kaitai Struct tools and resources
 - https://github.com/renyxa/re-lab/tree/master/oletoy
 - https://github.com/0xdabbad00/icebuddha
 - https://github.com/padsproj/pads
+- https://github.com/fox-it/dissect.cstruct
 - [dtfabric](https://github.com/libyal/dtfabric)
 - [construct](https://github.com/construct/construct) - Python library to create declarative parsers
 - [vstruct2](https://github.com/vivisect/vstruct2) - Python structure definition and parsing library
