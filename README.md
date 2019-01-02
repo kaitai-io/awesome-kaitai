@@ -84,13 +84,14 @@ A curated list of Kaitai Struct tools and resources
 
 ## Similar projects / tools
 
+- [bindata](https://github.com/dmendel/bindata) - Binary data parsing for Ruby
+- [construct](https://github.com/construct/construct) - Python library to create declarative parsers
+- [dtfabric](https://github.com/libyal/dtfabric)
+- [vstruct2](https://github.com/vivisect/vstruct2) - Python structure definition and parsing library
 - https://github.com/renyxa/re-lab/tree/master/oletoy
 - https://github.com/0xdabbad00/icebuddha
 - https://github.com/padsproj/pads
 - https://github.com/fox-it/dissect.cstruct
-- [dtfabric](https://github.com/libyal/dtfabric)
-- [construct](https://github.com/construct/construct) - Python library to create declarative parsers
-- [vstruct2](https://github.com/vivisect/vstruct2) - Python structure definition and parsing library
 
 ### Hex Editors
 
