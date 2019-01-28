@@ -19,6 +19,13 @@ A curated list of Kaitai Struct tools and resources
 - kaitaiStructCompile.py - Automate ksy compilation into python files ([Repository](https://gitlab.com/kaitaiStructCompile.py/kaitaiStructCompile.py))
 - Kaitai Struct: visualizer and hex viewer tool GUI in Java ([Repository](https://github.com/kaitai-io/kaitai_struct_gui), [Issues](https://github.com/kaitai-io/kaitai_struct_gui/issues)) - *deprecated?*
 
+### CI
+
+#### Docker images
+
+- [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/release), [GraalVM](https://github.com/oracle/graal/releases), [GraalPython](https://github.com/graalvm/graalpython), KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+- [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
+
 ## Converter
 
 - Convert C to ksy file ([Snippet](https://gist.github.com/GreyCat/9dba530b0d2cb8ccec4e1d6e90a0b565))
