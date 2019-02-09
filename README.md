@@ -6,7 +6,7 @@ A curated list of Kaitai Struct tools and resources
 
 ## Compiler
 
-- Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler), [Issues](https://github.com/kaitai-io/kaitai_struct_compiler/issues))
+- Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler))
 - [Online compiler](https://kaitai.io/repl/)
 
 ## Tools
