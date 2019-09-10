@@ -87,7 +87,7 @@ A curated list of Kaitai Struct tools and resources
 - http://kaitai.io/workshop/
 - https://platform.avatao.com/paths/6c78ce93-657a-4cb2-b4c0-25ed3d103beb
 - https://archive.fosdem.org/2017/schedule/event/om_kaitai/ - Presentation on Kaitai from Mikhail Yakshin (GreyCat)
-- http://vaughanhilts.me/blog/2016/11/16/reverse-engineering-trails-in-the-sky-ed-6-game-engine.html - Blog post on game reverse engineering
+- https://vaughanhilts.me/blog/2016/11/16/reverse-engineering-trails-in-the-sky-ed-6-game-engine.html  - Blog post on game reverse engineering
 - https://pythonistac.wordpress.com/2017/03/09/python-network-packet-dissection-frameworks-shootout-scapy-vs-construct-vs-hachoir-vs-kaitai-struct/ - Blog post comparing different network packet dissection frameworks
 - https://medium.com/@MorteNoir/database-reverse-engineering-part-2-main-approaches-ae9355b2d429 - A blog post about reverse-engineering unknown file formats with a proprietary car parts database as an example.
 
