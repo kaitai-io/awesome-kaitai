@@ -8,7 +8,7 @@ A curated list of Kaitai Struct tools and resources
 
 - Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler))
 - [Online compiler](https://kaitai.io/repl/)
-- [kaitaigo](https://gitlab.com/dfir/binary/kaitaigo): alternative compiler to translate .ksy => .go, written in Golang
+- [kaitaigo](https://github.com/cugu/kaitaigo): alternative compiler to translate .ksy => .go, written in Golang
 
 ## Tools
 
