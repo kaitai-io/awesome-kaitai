@@ -19,6 +19,7 @@ A curated list of Kaitai Struct tools and resources
 - Kaitai Struct: visualizer and hex viewer tool ([Repository](https://github.com/kaitai-io/kaitai_struct_visualizer))
 - kaitaiStructCompile.py - Automate ksy compilation into python files ([Repository](https://gitlab.com/kaitaiStructCompile.py/kaitaiStructCompile.py))
 - Kaitai Struct: visualizer and hex viewer tool GUI in Java ([Repository](https://github.com/kaitai-io/kaitai_struct_gui), [Issues](https://github.com/kaitai-io/kaitai_struct_gui/issues)) - *deprecated?*
+- [ksylint](https://github.com/cugu/ksylint) - A linter for .ksy files
 
 ### CI
 
