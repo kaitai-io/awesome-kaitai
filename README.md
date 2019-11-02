@@ -76,7 +76,6 @@ A curated list of Kaitai Struct tools and resources
 - Compiled test files ([Repository](https://github.com/kaitai-io/ci_targets))
 - [Test results](http://kaitai.io/ci/) ([Test Artifacts Repository](https://github.com/kaitai-io/ci_artifacts))
 - Benchmarking suite ([Repository](https://github.com/kaitai-io/kaitai_struct_benchmarks))
-- Settings for shippable.com ([Repository](https://github.com/kaitai-io/kaitai_struct_shippable)) - *test?*
 
 ## Misc
 
