@@ -27,7 +27,8 @@ A curated list of Kaitai Struct tools and resources
 
 - [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/release), [GraalVM](https://github.com/oracle/graal/releases), [GraalPython](https://github.com/graalvm/graalpython), KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 - [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
-- [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) - docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
+- [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
+- [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc))
 
 ## Converter
 
@@ -75,7 +76,6 @@ A curated list of Kaitai Struct tools and resources
 - Compiled test files ([Repository](https://github.com/kaitai-io/ci_targets))
 - [Test results](http://kaitai.io/ci/) ([Test Artifacts Repository](https://github.com/kaitai-io/ci_artifacts))
 - Benchmarking suite ([Repository](https://github.com/kaitai-io/kaitai_struct_benchmarks))
-- Settings for shippable.com ([Repository](https://github.com/kaitai-io/kaitai_struct_shippable)) - *test?*
 
 ## Misc
 
