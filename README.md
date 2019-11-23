@@ -63,6 +63,7 @@ A curated list of Kaitai Struct tools and resources
   - Webpack loader for kaitai-struct .ksy definitions ([Repository](https://github.com/kaitai-io/kaitai-struct-loader), [Issues](https://github.com/kaitai-io/kaitai-struct-loader/issues))
 - Java ([Repository](https://github.com/kaitai-io/kaitai_struct_java_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_java_runtime/issues))
 - Lua ([Repository](https://github.com/kaitai-io/kaitai_struct_lua_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_lua_runtime/issues))
+- Nim ([Repository](https://github.com/kaitai-io/kaitai_struct_nim_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_nim_runtime/issues))
 - Perl ([Repository](https://github.com/kaitai-io/kaitai_struct_perl_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_perl_runtime/issues))
 - PHP ([Repository](https://github.com/kaitai-io/kaitai_struct_php_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_php_runtime/issues))
 - Python ([Repository](https://github.com/kaitai-io/kaitai_struct_python_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_python_runtime/issues))
