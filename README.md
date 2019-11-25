@@ -9,7 +9,7 @@ A curated list of Kaitai Struct tools and resources
 - Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler))
 - [Online compiler](https://kaitai.io/repl/)
 - [kaitaigo](https://github.com/cugu/kaitaigo): alternative compiler to translate .ksy => .go, written in Golang
-- [nimitai](https://github.com/sealmove/nimitai): The compiler implemented as macro in Nimlang (.ksy => in-memory parser)
+- [nimitai](https://github.com/sealmove/nimitai): The compiler implemented as macro in Nimlang (.ksy => Nim AST)
 
 ## Tools
 
@@ -114,6 +114,7 @@ A curated list of Kaitai Struct tools and resources
 - [iBored](http://apps.tempel.org/iBored/) - Cross platform, sektor based hex editor
 - [Synalyze It!](http://www.synalysis.net) - Hex editor with templates for binary analysis
 - [wxHex Editor](http://www.wxhexeditor.org) - Cross platform editor with file comparison
+- [hexalepis](https://github.com/sealmove/hexalepis) - Win/Unix gui+terminal, [tweak](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html) engine, .ksy visualization
 
 ### File Grammars
 
