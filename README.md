@@ -104,6 +104,11 @@ A curated list of Kaitai Struct tools and resources
 - https://github.com/0xdabbad00/icebuddha
 - https://github.com/padsproj/pads
 - https://github.com/fox-it/dissect.cstruct
+- [BeeSchema](https://github.com/Michael-Kelley/BeeSchema - Binary Schema Library for C#
+
+### 3D
+
+[3D Model Researcher](http://mr.game-viewer.org/) - Extract 3D models
 
 ### Hex Editors
 
