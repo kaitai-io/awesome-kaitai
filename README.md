@@ -96,21 +96,18 @@ A curated list of Kaitai Struct tools and resources
 
 ## Similar projects / tools
 
+- [3D Model Researcher](http://mr.game-viewer.org/) - Studying binary files of 3D models
+- [BeeSchema](https://github.com/Michael-Kelley/BeeSchema) - Binary Schema Library for C#
 - [bindata](https://github.com/dmendel/bindata) - Binary data parsing for Ruby
 - [construct](https://github.com/construct/construct) - Python library to create declarative parsers
 - [dtfabric](https://github.com/libyal/dtfabric)
 - [vstruct2](https://github.com/vivisect/vstruct2) - Python structure definition and parsing library
-- https://github.com/renyxa/re-lab/tree/master/oletoy
 - https://github.com/0xdabbad00/icebuddha
-- https://github.com/padsproj/pads
 - https://github.com/fox-it/dissect.cstruct
-- [BeeSchema](https://github.com/Michael-Kelley/BeeSchema) - Binary Schema Library for C#
-- https://github.com/frodef/binary-types (2010) Read and write binary records for Common Lisp
-- https://github.com/j3pic/lisp-binary (2019) A library to easily read and write complex binary formats (Common Lisp)
-
-### 3D
-
-[3D Model Researcher](http://mr.game-viewer.org/) - Extract 3D models
+- https://github.com/frodef/binary-types - Read and write binary records for Common Lisp
+- https://github.com/j3pic/lisp-binary - A library to easily read and write complex binary formats (Common Lisp)
+- https://github.com/padsproj/pads
+- https://github.com/renyxa/re-lab/tree/master/oletoy
 
 ### Hex Editors
 
