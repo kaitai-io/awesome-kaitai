@@ -104,6 +104,13 @@ A curated list of Kaitai Struct tools and resources
 - https://github.com/0xdabbad00/icebuddha
 - https://github.com/padsproj/pads
 - https://github.com/fox-it/dissect.cstruct
+- [BeeSchema](https://github.com/Michael-Kelley/BeeSchema) - Binary Schema Library for C#
+- https://github.com/frodef/binary-types (2010) Read and write binary records for Common Lisp
+- https://github.com/j3pic/lisp-binary (2019) A library to easily read and write complex binary formats (Common Lisp)
+
+### 3D
+
+[3D Model Researcher](http://mr.game-viewer.org/) - Extract 3D models
 
 ### Hex Editors
 
