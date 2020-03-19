@@ -123,7 +123,7 @@ A curated list of Kaitai Struct tools and resources
 ### File Grammars
 
 - [010 Editor Templates](http://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
-- [Contruct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) - Parser for different file formats for the python construct package
+- [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) - Parser for different file formats for the python construct package
 - [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) - HFS+ grammars for Synalysis
 - [iBored Templates](http://apps.tempel.org/iBored/#) - Templates are packed inside the .app
 - [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) - Grammars for different file systems
