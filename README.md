@@ -11,15 +11,34 @@ A curated list of Kaitai Struct tools and resources
 - [kaitaigo](https://github.com/cugu/kaitaigo): alternative compiler to translate .ksy => .go, written in Golang
 - [nimitai](https://github.com/sealmove/nimitai): The compiler implemented as macro in Nimlang (.ksy => Nim AST)
 
-## Tools
+## Visualizers, IDEs, hex editors
+
+### Arbitrary file formats
+
+These tools allow to develop your own Kaitai Struct specifications in
+iterative fashion by visualizing data locations in hex dump as one
+develops .ksy.
 
 - [Kaitai Web IDE](https://ide.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_webide), [Github Page](https://github.com/kaitai-io/ide-kaitai-io.github.io), [Wiki Documentation](https://github.com/kaitai-io/kaitai_struct_webide/wiki/Features))
   - [Web IDE Docs](https://github.com/kaitai-io/kaitai_struct_webide_docs) - Images for the documentation
   - [webide-usercontent.kaitai.io](https://github.com/kaitai-io/webide-usercontent.kaitai.io) - Used in sandboxing for the WebIDE
 - [Development version of the IDE](https://ide.kaitai.io/devel/) ([Github Page](https://github.com/kaitai-io/ide-devel-kaitai-io.github.io))
 - Kaitai Struct: visualizer and hex viewer tool ([Repository](https://github.com/kaitai-io/kaitai_struct_visualizer))
+- Kaitai Struct: visualizer and hex viewer tool GUI in Java ([Repository](https://github.com/kaitai-io/kaitai_struct_gui), [Issues](https://github.com/kaitai-io/kaitai_struct_gui/issues))
+- Kaitai Struct extension for VSCode ([Marketplace](https://marketplace.visualstudio.com/items?itemName=fudgepops.kaitai-struct-vscode), [Overview video](https://www.youtube.com/watch?v=4c7UuZ33JYE), [Repository](https://github.com/fudgepop01/fudgedit))
+- Hobbits ([Repository](https://github.com/Mahlet-Inc/hobbits))
+
+### Fixed set of file formats
+
+These visualizers / hex editors allow only fixed set of precompiled file
+format specifications to be used.
+
+- Veles ([Homepage](https://codisec.com/veles/), [Repository](https://github.com/codilime/veles))
+- Kaitai Struct plugin for Binary Ninja ([Repository](https://github.com/Vector35/kaitai))
+
+## Tools
+
 - kaitaiStructCompile.py - Automate ksy compilation into python files ([Repository](https://gitlab.com/kaitaiStructCompile.py/kaitaiStructCompile.py))
-- Kaitai Struct: visualizer and hex viewer tool GUI in Java ([Repository](https://github.com/kaitai-io/kaitai_struct_gui), [Issues](https://github.com/kaitai-io/kaitai_struct_gui/issues)) - *deprecated?*
 - [ksylint](https://github.com/cugu/ksylint) - A linter for .ksy files
 
 ### CI
