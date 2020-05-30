@@ -39,7 +39,7 @@ format specifications to be used.
 ## Tools
 
 - kaitaiStructCompile.py - Automate ksy compilation into python files ([Repository](https://gitlab.com/kaitaiStructCompile.py/kaitaiStructCompile.py))
-- [ksylint](https://github.com/cugu/ksylint) - A linter for .ksy files
+- [ksylint](https://github.com/kaitai-io/ksylint) - A linter for .ksy files
 
 ### CI
 
