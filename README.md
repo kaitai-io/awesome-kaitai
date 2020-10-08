@@ -134,9 +134,9 @@ format specifications to be used.
 - [hecate](https://github.com/evanmiller/hecate) - Terminal hex editor
 - [Hexinator](https://hexinator.com) - Windows Version of Synalyze It!
 - [HxD](https://mh-nexus.de/de/hxd/) - Small, fast hex editor for Windows
-- [iBored](http://apps.tempel.org/iBored/) - Cross platform, sektor based hex editor
+- [iBored](http://apps.tempel.org/iBored/) - Cross-platform, sector based hex editor
 - [Synalyze It!](https://www.synalysis.net) - Hex editor with templates for binary analysis
-- [wxHex Editor](http://www.wxhexeditor.org) - Cross platform editor with file comparison
+- [wxHex Editor](http://www.wxhexeditor.org) - Cross-platform editor with file comparison
 - [hexalepis](https://github.com/sealmove/hexalepis) - Win/Unix gui+terminal, [tweak](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html) engine, .ksy visualization
 
 ### File Grammars
