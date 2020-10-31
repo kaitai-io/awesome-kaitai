@@ -77,11 +77,14 @@ format specifications to be used.
 
 - C++ using STL ([Repository](https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime/issues))
 - C#/.NET ([Repository](https://github.com/kaitai-io/kaitai_struct_csharp_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_csharp_runtime/issues))
+  - [NuGet package](https://www.nuget.org/packages/KaitaiStruct.Runtime.CSharp/)
 - Go ([Repository](https://github.com/kaitai-io/kaitai_struct_go_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_go_runtime/issues))
 - JavaScript ([Repository](https://github.com/kaitai-io/kaitai_struct_javascript_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_javascript_runtime/issues))
+  - [npm package](https://www.npmjs.com/package/kaitai-struct)
   - Examples ([Repository](https://github.com/kaitai-io/kaitai_struct_examples))
   - Webpack loader for kaitai-struct .ksy definitions ([Repository](https://github.com/kaitai-io/kaitai_struct_loader), [Issues](https://github.com/kaitai-io/kaitai_struct_loader/issues))
 - Java ([Repository](https://github.com/kaitai-io/kaitai_struct_java_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_java_runtime/issues))
+  - [Java jar at maven package](https://search.maven.org/artifact/io.kaitai/kaitai-struct-runtime)
 - Lua ([Repository](https://github.com/kaitai-io/kaitai_struct_lua_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_lua_runtime/issues))
 - Nim ([Repository](https://github.com/kaitai-io/kaitai_struct_nim_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_nim_runtime/issues))
 - Perl ([Repository](https://github.com/kaitai-io/kaitai_struct_perl_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_perl_runtime/issues))
@@ -89,6 +92,7 @@ format specifications to be used.
 - Python ([Repository](https://github.com/kaitai-io/kaitai_struct_python_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_python_runtime/issues))
   - [PIP packet](https://pypi.org/project/kaitaistruct/)
 - Ruby ([Repository](https://github.com/kaitai-io/kaitai_struct_ruby_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_ruby_runtime/issues))
+  - [Ruby gem](https://rubygems.org/gems/kaitai-struct)
 - Rust ([Repository](https://github.com/kaitai-io/kaitai_struct_rust_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_rust_runtime/issues))
 - Swift ([Repository](https://github.com/kaitai-io/kaitai_struct_swift_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_swift_runtime/issues))
 
