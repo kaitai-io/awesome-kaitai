@@ -4,6 +4,9 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md
+  # NB: it's impossible to automatically check youtube.com links, as
+  # Google detects that as malicious activity and redirects to CAPTCHA at
+  # https://google.com/sorry/...
+  - awesome_bot --white-list youtube.com README.md
 notifications:
   email: false
