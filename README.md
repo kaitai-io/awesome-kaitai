@@ -107,7 +107,7 @@ format specifications to be used.
 ## Other Resources
 
 - http://kaitai.io/workshop/
-- https://platform.avatao.com/paths/6c78ce93-657a-4cb2-b4c0-25ed3d103beb
+- https://avatao.com/kaitai/
 - https://archive.fosdem.org/2017/schedule/event/om_kaitai/ - Presentation on Kaitai from Mikhail Yakshin (GreyCat)
 - https://vaughanhilts.me/blog/2016/11/16/reverse-engineering-trails-in-the-sky-ed-6-game-engine.html  - Blog post on game reverse engineering
 - https://pythonistac.wordpress.com/2017/03/09/python-network-packet-dissection-frameworks-shootout-scapy-vs-construct-vs-hachoir-vs-kaitai-struct/ - Blog post comparing different network packet dissection frameworks
