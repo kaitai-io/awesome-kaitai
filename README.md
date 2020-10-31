@@ -134,7 +134,7 @@ format specifications to be used.
 - [hecate](https://github.com/evanmiller/hecate) - Terminal hex editor
 - [Hexinator](https://hexinator.com) - Windows Version of Synalyze It!
 - [HxD](https://mh-nexus.de/de/hxd/) - Small, fast hex editor for Windows
-- [iBored](http://apps.tempel.org/iBored/) - Cross-platform, sector based hex editor
+- [iBored](https://apps.tempel.org/iBored/) - Cross-platform, sector based hex editor
 - [Synalyze It!](https://www.synalysis.net) - Hex editor with templates for binary analysis
 - [wxHex Editor](http://www.wxhexeditor.org) - Cross-platform editor with file comparison
 - [hexalepis](https://github.com/sealmove/hexalepis) - Win/Unix gui+terminal, [tweak](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html) engine, .ksy visualization
@@ -144,7 +144,7 @@ format specifications to be used.
 - [010 Editor Templates](https://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
 - [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) - Parser for different file formats for the python construct package
 - [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) - HFS+ grammars for Synalysis
-- [iBored Templates](http://apps.tempel.org/iBored/#) - Templates are packed inside the .app
+- [iBored Templates](https://apps.tempel.org/iBored/#) - Templates are packed inside the .app
 - [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) - Grammars for different file systems
 - [Synalyse It! Grammars](https://www.synalysis.net/formats.xml) - File type grammars for the Synalyze It! editor
 - [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) - Grammars used by TestDisk and PhotoRec
