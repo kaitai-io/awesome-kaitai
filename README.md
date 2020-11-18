@@ -79,7 +79,7 @@ format specifications to be used.
 - Go ([Repository](https://github.com/kaitai-io/kaitai_struct_go_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_go_runtime/issues))
 - JavaScript ([Repository](https://github.com/kaitai-io/kaitai_struct_javascript_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_javascript_runtime/issues))
   - Examples ([Repository](https://github.com/kaitai-io/kaitai_struct_examples))
-  - Webpack loader for kaitai-struct .ksy definitions ([Repository](https://github.com/kaitai-io/kaitai-struct-loader), [Issues](https://github.com/kaitai-io/kaitai-struct-loader/issues))
+  - Webpack loader for kaitai-struct .ksy definitions ([Repository](https://github.com/kaitai-io/kaitai_struct_loader), [Issues](https://github.com/kaitai-io/kaitai_struct_loader/issues))
 - Java ([Repository](https://github.com/kaitai-io/kaitai_struct_java_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_java_runtime/issues))
 - Lua ([Repository](https://github.com/kaitai-io/kaitai_struct_lua_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_lua_runtime/issues))
 - Nim ([Repository](https://github.com/kaitai-io/kaitai_struct_nim_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_nim_runtime/issues))
