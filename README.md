@@ -9,7 +9,7 @@ A curated list of Kaitai Struct tools and resources
 - Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler))
 - [Online compiler](https://kaitai.io/repl/)
 - [kaitaigo](https://github.com/cugu/kaitaigo): alternative compiler to translate .ksy => .go, written in Golang
-- [nimitai](https://github.com/sealmove/nimitai): The compiler implemented as macro in Nimlang (.ksy => Nim AST)
+- [nimitai](https://github.com/sealmove/nimitai): The compiler implemented as macro in Nimlang (.ksy => Nim AST) (STALLED)
 
 ## Visualizers, IDEs, hex editors
 
@@ -121,6 +121,7 @@ format specifications to be used.
 - [construct](https://github.com/construct/construct) - Python library to create declarative parsers
 - [dtfabric](https://github.com/libyal/dtfabric)
 - [vstruct2](https://github.com/vivisect/vstruct2) - Python structure definition and parsing library
+- [binaryparse](https://github.com/PMunch/binaryparse) - Nim macro for generating composable parsers/encoders
 - https://github.com/0xdabbad00/icebuddha
 - https://github.com/fox-it/dissect.cstruct
 - https://github.com/frodef/binary-types - Read and write binary records for Common Lisp
@@ -137,7 +138,7 @@ format specifications to be used.
 - [iBored](https://apps.tempel.org/iBored/) - Cross-platform, sector based hex editor
 - [Synalyze It!](https://www.synalysis.net) - Hex editor with templates for binary analysis
 - [wxHex Editor](http://www.wxhexeditor.org) - Cross-platform editor with file comparison
-- [hexalepis](https://github.com/sealmove/hexalepis) - Win/Unix gui+terminal, [tweak](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html) engine, .ksy visualization
+- [hexalepis](https://github.com/sealmove/hexalepis) - Implements [tweak](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html) engine (WIP)
 
 ### File Grammars
 
