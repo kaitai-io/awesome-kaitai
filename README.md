@@ -64,6 +64,7 @@ format specifications to be used.
 - EDID (VESA Enhanced Extended Display Identification Data) structure for Kaitai Struct ([Repository](https://github.com/kaitai-io/edid.ksy))
 - Java bytecode spec for Kaitai Struct ([Repository](https://github.com/kaitai-io/java_bytecode.ksy), [Issues](https://github.com/kaitai-io/java_bytecode.ksy/issues))
 - Windows resource file spec for Kaitai Struct ([Repository](https://github.com/kaitai-io/windows_resource_file.ksy), [Issues](https://github.com/kaitai-io/windows_resource_file.ksy/issues))
+- Collection of file formats written in BinaryLang ([Repository](https://github.com/sealmove/n4n6))
 
 ## Help, Documentation & Community
 
@@ -121,7 +122,7 @@ format specifications to be used.
 - [construct](https://github.com/construct/construct) - Python library to create declarative parsers
 - [dtfabric](https://github.com/libyal/dtfabric)
 - [vstruct2](https://github.com/vivisect/vstruct2) - Python structure definition and parsing library
-- [binaryparse](https://github.com/PMunch/binaryparse)/[binarylang](https://github.com/sealmove/binarylang) - Nim macro for generating composable parsers/encoders
+- [binaryparse](https://github.com/PMunch/binaryparse)/[BinaryLang](https://github.com/sealmove/binarylang) - Nim macro for generating composable parsers/encoders
 - https://github.com/0xdabbad00/icebuddha
 - https://github.com/fox-it/dissect.cstruct
 - https://github.com/frodef/binary-types - Read and write binary records for Common Lisp
