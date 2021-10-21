@@ -40,6 +40,7 @@ format specifications to be used.
 
 - kaitaiStructCompile.py - Automate ksy compilation into python files ([Repository](https://gitlab.com/kaitaiStructCompile.py/kaitaiStructCompile.py))
 - [ksylint](https://github.com/kaitai-io/ksylint) - A linter for .ksy files
+- [ksy-dl](https://github.com/tins2831/ksy-dl) - Downloads .ksy files and their dependencies straight from the official kaitai-struct format gallery.
 
 ### CI
 
