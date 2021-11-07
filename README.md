@@ -35,6 +35,7 @@ format specifications to be used.
 
 - Veles ([Homepage](https://codisec.com/veles/), [Repository](https://github.com/codilime/veles))
 - Kaitai Struct plugin for Binary Ninja ([Repository](https://github.com/Vector35/kaitai))
+- pytai ([Repository](https://github.com/Dvd848/pytai))
 
 ## Tools
 
