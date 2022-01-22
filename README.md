@@ -1,13 +1,12 @@
-# Awesome Kaitai [![Link Status](https://api.travis-ci.com/kaitai-io/awesome-kaitai.svg?branch=master)](https://travis-ci.com/kaitai-io/awesome-kaitai)
+# Awesome Kaitai [![Link Status](https://api.travis-ci.com/kaitai-io/awesome-kaitai.svg?branch=master)](https://app.travis-ci.com/github/kaitai-io/awesome-kaitai)
 
 A curated list of Kaitai Struct tools and resources
 
-- [Main Website](http://kaitai.io) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct), [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io), [Issues](https://github.com/kaitai-io/kaitai_struct/issues))
+- [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct), [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io), [Issues](https://github.com/kaitai-io/kaitai_struct/issues))
 
 ## Compiler
 
-- Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler))
-- [Online compiler](https://kaitai.io/repl/)
+- Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler), [Releases](https://github.com/kaitai-io/kaitai_struct_compiler/releases))
 - [kaitaigo](https://github.com/cugu/kaitaigo): alternative compiler to translate .ksy => .go, written in Golang
 - [nimitai](https://github.com/sealmove/nimitai): The compiler implemented as macro in Nimlang (.ksy => Nim AST)
 
@@ -47,7 +46,7 @@ format specifications to be used.
 
 #### Docker images
 
-- [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/release), [GraalVM](https://github.com/oracle/graal/releases), [GraalPython](https://github.com/graalvm/graalpython), KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+- [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases), [GraalPython](https://github.com/oracle/graalpython), KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 - [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
 - [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
 - [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc))
@@ -60,7 +59,7 @@ format specifications to be used.
 
 ## Formats
 
-- [Kaitai Struct library of binary file formats](http://formats.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_formats), [Github Pages](https://github.com/kaitai-io/formats-kaitai-io.github.io))
+- [Kaitai Struct library of binary file formats](https://formats.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_formats), [Github Pages](https://github.com/kaitai-io/formats-kaitai-io.github.io))
 - APFS (apple file system) format ([Repository](https://github.com/cugu/apfs.ksy), [Issues](https://github.com/cugu/apfs.ksy/issues))
 - DICOM (Digital Imaging and Communications in Medicine) file format spec for Kaitai Struct ([Repository](https://github.com/kaitai-io/dicom.ksy), [Issues](https://github.com/kaitai-io/dicom.ksy/issues))
 - EDID (VESA Enhanced Extended Display Identification Data) structure for Kaitai Struct ([Repository](https://github.com/kaitai-io/edid.ksy))
@@ -69,9 +68,9 @@ format specifications to be used.
 
 ## Help, Documentation & Community
 
-- [Kaitai Struct Documentation](http://doc.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_doc), [Github Pages](https://github.com/kaitai-io/doc-kaitai-io.github.io))
+- [Kaitai Struct Documentation](https://doc.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_doc), [Github Pages](https://github.com/kaitai-io/doc-kaitai-io.github.io))
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/kaitai-struct)
-- [Gitter channel](https://gitter.im/kaitai_struct/)
+- [Gitter channel](https://gitter.im/kaitai_struct/Lobby)
 - [Official Twitter account](https://twitter.com/kaitai_io)
 
 ## Runtimes
@@ -97,19 +96,18 @@ format specifications to be used.
 
 - Tests for all languages ([Repository](https://github.com/kaitai-io/kaitai_struct_tests))
 - Compiled test files ([Repository](https://github.com/kaitai-io/ci_targets))
-- [Test results](http://kaitai.io/ci/) ([Test Artifacts Repository](https://github.com/kaitai-io/ci_artifacts))
+- [Test results](https://ci.kaitai.io/) ([Test Artifacts Repository](https://github.com/kaitai-io/ci_artifacts))
 - Benchmarking suite ([Repository](https://github.com/kaitai-io/kaitai_struct_benchmarks))
 
 ## Misc
 
-- [bintray](https://bintray.com/kaitai-io) - Binary repository
 - KaitaiFS: mount any filesystem specified with a .ksy as a real file system ([Repository](https://github.com/kaitai-io/kaitai_fs), [Issues](https://github.com/kaitai-io/kaitai_fs/issues))
 - Compression processing libraries ([Repository](https://github.com/kaitai-io/kaitai_compress))
 
 ## Other Resources
 
-- http://kaitai.io/workshop/
-- https://avatao.com/kaitai/
+- https://kaitai.io/workshop/
+- https://avatao.com/blog-kaitai/
 - https://archive.fosdem.org/2017/schedule/event/om_kaitai/ - Presentation on Kaitai from Mikhail Yakshin (GreyCat)
 - https://vaughanhilts.me/blog/2016/11/16/reverse-engineering-trails-in-the-sky-ed-6-game-engine.html  - Blog post on game reverse engineering
 - https://pythonistac.wordpress.com/2017/03/09/python-network-packet-dissection-frameworks-shootout-scapy-vs-construct-vs-hachoir-vs-kaitai-struct/ - Blog post comparing different network packet dissection frameworks
@@ -132,13 +130,12 @@ format specifications to be used.
 
 ### Hex Editors
 
-- [0xED](http://www.suavetech.com/0xed/) - Native hex editor for OS X
 - [hecate](https://github.com/evanmiller/hecate) - Terminal hex editor
-- [Hexinator](https://hexinator.com) - Windows Version of Synalyze It!
+- [Hexinator](https://hexinator.com/) - Windows Version of Synalyze It!
 - [HxD](https://mh-nexus.de/de/hxd/) - Small, fast hex editor for Windows
 - [iBored](https://apps.tempel.org/iBored/) - Cross-platform, sector based hex editor
-- [Synalyze It!](https://www.synalysis.net) - Hex editor with templates for binary analysis
-- [wxHex Editor](http://www.wxhexeditor.org) - Cross-platform editor with file comparison
+- [Synalyze It!](https://www.synalysis.net/) - Hex editor with templates for binary analysis
+- [wxHex Editor](https://www.wxhexeditor.org/) - Cross-platform editor with file comparison
 - [hexalepis](https://github.com/sealmove/hexalepis) - Win/Unix gui+terminal, [tweak](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html) engine, .ksy visualization
 
 ### File Grammars
@@ -146,7 +143,7 @@ format specifications to be used.
 - [010 Editor Templates](https://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
 - [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) - Parser for different file formats for the python construct package
 - [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) - HFS+ grammars for Synalysis
-- [iBored Templates](https://apps.tempel.org/iBored/#) - Templates are packed inside the .app
+- [iBored Templates](https://apps.tempel.org/iBored/) - Templates are packed inside the .app
 - [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) - Grammars for different file systems
 - [Synalyse It! Grammars](https://www.synalysis.net/formats.xml) - File type grammars for the Synalyze It! editor
 - [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) - Grammars used by TestDisk and PhotoRec
