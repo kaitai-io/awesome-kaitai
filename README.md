@@ -137,7 +137,7 @@ format specifications to be used.
 - [Synalyze It!](https://www.synalysis.net/) - Hex editor with templates for binary analysis
 - [wxHex Editor](https://www.wxhexeditor.org/) - Cross-platform editor with file comparison
 - [hexalepis](https://github.com/sealmove/hexalepis) - Win/Unix gui+terminal, [tweak](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html) engine, .ksy visualization
-- [Hex Editor Neo](https://www.hhdsoftware.com/hex-editor) - fast binary file editor for Windows (supports Kaitai Struct in its [Structure Viewer](https://docs.hhdsoftware.com/hex/definitive-guide/structure-viewer/kaitai.html))
+- [Hex Editor Neo](https://www.hhdsoftware.com/hex-editor) - fast binary file editor for Windows (supports Kaitai Struct [in its Structure Viewer](https://docs.hhdsoftware.com/hex/definitive-guide/structure-viewer/kaitai.html))
 
 ### File Grammars
 
