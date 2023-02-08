@@ -84,7 +84,7 @@ format specifications to be used.
   - Examples ([Repository](https://github.com/kaitai-io/kaitai_struct_examples))
   - Webpack loader for kaitai-struct .ksy definitions ([Repository](https://github.com/kaitai-io/kaitai_struct_loader), [Issues](https://github.com/kaitai-io/kaitai_struct_loader/issues))
 - Java ([Repository](https://github.com/kaitai-io/kaitai_struct_java_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_java_runtime/issues))
-  - [Java .jar package at Maven](https://search.maven.org/artifact/io.kaitai/kaitai-struct-runtime)
+  - [Java .jar package at Maven Central](https://search.maven.org/artifact/io.kaitai/kaitai-struct-runtime)
 - Lua ([Repository](https://github.com/kaitai-io/kaitai_struct_lua_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_lua_runtime/issues))
 - Nim ([Repository](https://github.com/kaitai-io/kaitai_struct_nim_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_nim_runtime/issues))
 - Perl ([Repository](https://github.com/kaitai-io/kaitai_struct_perl_runtime), [Issues](https://github.com/kaitai-io/kaitai_struct_perl_runtime/issues))
