@@ -1,0 +1,20 @@
+name: awesome_bot
+
+on:
+  push:
+    branches:
+      - master
+  pull_requests: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: install deps
+        run: gem install awesome_bot
+
+      # NB: it's impossible to automatically check youtube.com links, as
+      # Google detects that as malicious activity and redirects to CAPTCHA at
+      # https://google.com/sorry/...
+      - name: check
+        run: awesome_bot --white-list youtube.com README.md
