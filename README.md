@@ -70,7 +70,7 @@ format specifications to be used.
 
 - [Kaitai Struct Documentation](https://doc.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_doc), [Github Pages](https://github.com/kaitai-io/doc-kaitai-io.github.io))
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/kaitai-struct)
-- [Gitter channel](https://gitter.im/kaitai_struct/Lobby)
+- [Gitter channel](https://app.gitter.im/#/room/#kaitai_struct_Lobby:gitter.im)
 - [Official Twitter account](https://twitter.com/kaitai_io)
 
 ## Runtimes
