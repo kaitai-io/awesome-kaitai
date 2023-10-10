@@ -1,4 +1,4 @@
-# Awesome Kaitai [![Link Status](https://api.travis-ci.com/kaitai-io/awesome-kaitai.svg?branch=master)](https://app.travis-ci.com/github/kaitai-io/awesome-kaitai)
+# Awesome Kaitai [![Link status](https://img.shields.io/github/actions/workflow/status/kaitai-io/awesome-kaitai/awesome_bot_check.yml?branch=master)](https://github.com/kaitai-io/awesome-kaitai/actions/workflows/awesome_bot_check.yml?query=branch%3Amaster)
 
 A curated list of Kaitai Struct tools and resources
 
