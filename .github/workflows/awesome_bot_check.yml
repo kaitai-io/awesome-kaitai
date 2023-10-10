@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       # NB: it's impossible to automatically check youtube.com links, as
       # Google detects that as malicious activity and redirects to CAPTCHA at
